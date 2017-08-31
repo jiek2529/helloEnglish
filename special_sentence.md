@@ -19,6 +19,13 @@
 * Now = 现在（现在时）这里说的是现在的事，所以要用'am'. 我现在累了（I am tired now）
 >Am 是现在式的动词（present tense）
 * Last night = 昨晚，表示这是过去的事了， 因此我们要用'was'代表过去时， Was-过去时（Past tense）。
+* 一般过去式的问句中如果没有动词，那么就要以'was / were'开发。
+> He/She - Was
+> They/we -were
+`Were they busy yesterday? 他们昨天忙吗？`
+`Did you watch TV last night? 你昨晚有看电视吗？`
+在`含有过去式动词的问句`中要`以did开头，did后的动词形态不变`。
+
 
 _|现在式|过去式
 ---|---|---
@@ -108,13 +115,23 @@ set | set
 quit | quit
 shut | shut
 
-past simply | past simple negative
+past simple | past simple negative
 ---|---
 they went out | they did not go out
 he studied | he did not study
 I bought | I did not buy
 we saw | we did not see
 she played | she did not play
+
+past simple | past simple (interrogative)
+---|---
+they went out | did they go out?
+i bought a pen | did i buy a pen?
+we saw her | did we see her?
+she played hockey | did she play hockey?
+they were outside | were they outside?
+i was sick? | was i sick?
+he was at home | was he at home?
 
 
 english | description

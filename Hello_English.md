@@ -114,3 +114,7 @@ I am tired now | 我现在累了。
 I was tired last night | 我昨晚累了。
 I went to school yesterday. | 我昨天去学校 `这里要用'go'的过去式'went'`
 I did not go to school yesterday.  | 我昨天没去学校
+were they absent yesterday? | 他们昨天缺席吗？
+did you remember her name? | 你记得她的名字吗？
+Were they busy yesterday? | 他们昨天忙吗？
+Did you understand the question? | 你明白这个问题了吗？
