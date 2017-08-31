@@ -34,7 +34,7 @@ do you have `a` brother? | 你有任何兄弟吗？ `单数 询问要 a/an`
 `The` moon | 特指月亮   当谈论特定事物要the，谈论已经提到的事物也要the
 `A` White star | 很多白色星星中的一颗。
 he dances. | 他跳舞
->`? Min LI is a beauty` | Min Li是个美女
+`   ? Min LI is a beauty` | Min Li是个美女
 this is my bag | 
 this is your bag | 
 she lives in a small village. | 她住在一个小村子。
