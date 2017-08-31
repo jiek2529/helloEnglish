@@ -32,9 +32,9 @@ i | have
 we | have
 you | have
 they | have
-he | __has__
-she | __has__
-it | __has__
+he | `has`
+she | `has`
+it | `has`
 
 
 ##当提问时只有『do/does』需要根据『he/she』变化
@@ -61,7 +61,7 @@ what is your name? | 你叫什么名字？ -> he she,it = what does
 
 当提问时主动词形态不变（live）但助词（do/does）要变。
 'Do'用于'i/you/we/they', 'Does'用于'he/she/it'
-eg: where does she live? 她住在哪里？ 《不能--where does she lives?--》
+eg: where does she live? 她住在哪里？ 《不能 `where does she lives?`》
 
  
 「live 居住」 「like」
@@ -104,17 +104,17 @@ jeans | 牛仔裤
 
 english|description
 ---|---
-grandfather, granddad, grandpa | 祖父 __英语里祖父外祖父统称Grandfather，如果要特别说明用后两个
+grandfather, granddad, grandpa | 祖父 `英语里祖父外祖父统称Grandfather，如果要特别说明用后两个
 paternal grandfather | 祖父
 maternal grandfather | 外祖父
-grandmother, grandma, grandmom | 祖母 __英语里祖母外祖母统称Grandmather，如果要特别说明用后两个
+grandmother, grandma, grandmom | 祖母 `英语里祖母外祖母统称Grandmather，如果要特别说明用后两个
 paternal grandmother | 祖母
 maternal grandmother | 外祖母
-grandparents | 祖父母或外祖父母 __英语里祖父母外祖父母统称Grandparents，如果要特别说明用后两个
+grandparents | 祖父母或外祖父母 `英语里祖父母外祖父母统称Grandparents，如果要特别说明用后两个
 paternal grandparents | 祖父母
 maternal grandparents | 外祖父母
 siblings | 兄弟姐妹
-child \n children | 孩子 孩子们，不能加s表示复数
+child <br/> children | 孩子 孩子们，不能加s表示复数
 
 
 ##number
@@ -122,13 +122,13 @@ child \n children | 孩子 孩子们，不能加s表示复数
 0-10 | 11-20 | 10 - 100
 ---|---|---
 1 one | 11 eleven          | 10 ten
-2 two | 12 twelve          | 20 __twenty__
-3 three | 13 __thir teen__ | 30 __thirty__
-4 four | 14 four teen      | 40 __forty__
-5 five | 15 __fif teen__   | 50 __fifty__
+2 two | 12 twelve          | 20 `twenty`
+3 three | 13 `thir teen` | 30 `thirty`
+4 four | 14 four teen      | 40 `forty`
+5 five | 15 `fif teen`   | 50 `fifty`
 6 six | 16 six teen        | 60 sixty
 7 seven | 17 seven teen    | 70 seventy
-8 eight | 18 __eigh teen__ | 80 eighty
+8 eight | 18 `eigh teen` | 80 eighty
 9 nine | 19 nine teen         | 90 ninety
 10 ten | 20 twenty            | 100 hundred
 
@@ -161,7 +161,7 @@ east | 东
 south | 南
 west | 西
 north | 北
-north __ern__ | 北方的   方位的加 __ern__
+north `ern` | 北方的   方位的加 `ern`
 spring | 春
 summer | 夏
 autumn | 秋
@@ -187,12 +187,13 @@ across | 对面 eg: across the street 马路对面
 
 ##time
 
-```
-7:05 | five __past__ seven
+name|english
+---|---
+7:05 | five `past` seven
 7:15 | quarter past seven
 7:30 | half past senven
-6:55 | five __to__ seven
-```
+6:55 | five `to` seven
+
 
 ##常用名词
 
@@ -212,9 +213,32 @@ english|description
 ---|---
 how much | 用于不可数（不可量化）名词 eg: how much water?多少水; 
 How Many | 多少/ 提问 可数名词 eg: how many pens?多少支笔？
-few | __可数名词 少__  eg: there are a few eggs in the basket.
-some | __不可数名词 少__ eg: there is some tea in the cup.
+few | `可数名词 少`  eg: there are a few eggs in the basket.
+some | `不可数名词 少` eg: there is some tea in the cup.
 any | `would you like` sandwiches or cookies? 此时不能加 any
+
+
+name|english
+---|---
+never | 永不 -> 最低级
+rarely | 罕见
+sometimes | 有时
+often | 经常
+usually | 通常
+always | 总是 -> 最高级
+
+adjective形容词 | adverb副词 | example
+---|---|---
+fast(快速) | fast(快速) | she runs very fast.
+quick(快) | quickly(很快的) | she runs very quickly.
+slow(慢) | slowly(慢慢的) | she walks slowly.
+fluent(流利) | fluently(流利的) | she speaks fluently.
+beautiful(美丽) | beautifully(精美) | she sings beautifully.
+wonderful(精彩) | wonderfully(奇妙) | she dances wonderfully.
+good(好) | well(很好) | she sings well.
+happy(快乐) | happily(高高兴兴) | she lives happily.
+careful(小心) | carefully(小心) | he works carefully.
+fearless(不怕) | fearlessly(无所畏惧) | he fights fearlessly
 
 
 ```
@@ -258,3 +282,17 @@ vs | versus abbr. 对 相对
 principal | n. 校长 负责人 本金 资本； adj. 主要的 首要的
 principally | adv. 主要地，居首要地位的
 principle | 原则 原理 主义
+
+
+>Fluent是形容词（adjective）在这里用以形容English（英文=动词）
+>Fluently是个副词（adverb），在这里用以形容Speak（说->动词）。
+>>副词用以修饰正在进行的动作与事件。
+>Fluent (adjective) -> Fluently (adverb)
+
+>有些副词和形容词的拼写是一样的。
+>>eg: `Fast -> Fast(fastly not)`
+>>He runs very fast.
+>`Hard -> hard.`
+He works very hard = 他干得很努力
+注意和Hardly区分开。`Hardly=几乎不`
+He hardly works = 他几乎不工作。
