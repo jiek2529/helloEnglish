@@ -118,3 +118,31 @@ were they absent yesterday? | 他们昨天缺席吗？
 did you remember her name? | 你记得她的名字吗？
 Were they busy yesterday? | 他们昨天忙吗？
 Did you understand the question? | 你明白这个问题了吗？
+Do you work __on__ Mondays? | 你周一有上班吗？
+My birthday is on the 20th of March. | 我的生日是3月20号。
+I am going to Beijing __on__ Tuesday. | 我周二要去北京。
+I Went to the Forbidden City on Independece day. | 我在独立日去了紫禁城
+My wife baked a cake for me __on__ my brithday. | 我生日的时候我妻子做了个蛋糕给我。
+He goes to the temple at sunrise. | 他在日出时去了寺庙。
+I went to Beijing last May. (Not in last May) | 我上个五月去了北京
+He's coming back next Tuesday(Not on next Tuesday) | 他下周二回来。
+I go home every Mid-Autumn Festival(Not at every Mid-Autumn Festival) | 我每个中秋节都回家。
+I'll call you this evening(Not in this evening) | 今晚我给你打电话。
+I got late for work this morning. | 我今天上班迟到了。
+I am going to Beijing next Tuesday | 下周二我要去北京 。
+Wang jing is studying __at__ Beijing University | Wang jing在北京大学上学
+You can come to my place | 你可以来我家。
+We arrived __at__ our hotel __at__ 5 o'clock. | 我们5点到达我们的旅馆。
+Jian Kai was __sent__ to the head teacher's office. | Jiang Kai 被送到教导主任的办公室。
+He is at my place | 他在我家。<br/> "My place (home)"并不局限于四堵墙中间的空间。我在家="I am at home",我在屋里="I am in my house"
+You can buy shoes __at__ the corner shop | 你可以在街角的商店买到鞋子。
+Don't forget to send a postcard __to__ the neighbours. | 别忘了给邻居发明信片。
+Do you usually walk __to__ college? | 你时常走路去大学吗？
+Cheng Wei was staying __at__ his uncle's place. | Cheng Wei住在他叔叔家。
+There was a table __in__ the room. | 
+We __go to__ school | 我们去上学。
+We __are going to__ school | 我们要去上学。
+We __are going to__ italy | 我们要去意大利
+I'm home | 我在家。 `在美式英语里， 有时可以省去'home'前的at`，<br/>注：这和美式英语无关，I'm是个成句，就和Let's go一样。
+I __visited__ China last summer | 我去看夏天去了趟中国。`To 不能和 visit一起用`
+I visited my grandmother | 我去探望我奶奶了。

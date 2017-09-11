@@ -1,5 +1,22 @@
 #preposition 介词、前置词
 
+preposions | descriptions
+-----------|---
+up (向上) | from a lower to a higher point of (something)
+down (向下) | from a higher to a lower point of (something)
+over (越过) | extending directly upwards from
+to (到，至) | expressing motion in the direction of (a particular location)
+away from (两地距离多少) | to talk about the distance between two places
+past (过去，经过) | to or on the further side of
+into (被包围) | expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else.
+out of (从里至外) | from the inside to the outside of; having emerged from
+around (围绕) | on every side of
+onto (移动至某处到表面) | moving to a location on the surface of
+off (下来) | moving away and often down from
+across (到某处) | from one side to the other of (a place, area, etc.)
+through (穿过) | moving in one side and out of the other side of (an opening, channel, or location)
+along (沿着) | moving in a constant direction on (a more or less horizontal surface)
+
 ##区分 Go/get/have
 
 sentence | description
@@ -48,7 +65,7 @@ Get = 拿
 > Months: in December, in june.
 > Decades(几十年）: in the sixthes, in the 1790s
 > Seasons(季节): in winter, in summer, in the morning, in the afternonn, in the evening.
-3.
+3. on : 周天（Monday，Friday etc.）,和带day的日子（birthday，Republic day）与确切日期（19th april, 1th March etc.）都要用 __on__
 
 
 "afternonn"(下午)是一个长的时间段，因此要用"in". 
@@ -57,6 +74,19 @@ Get = 拿
 早中餐可以说__in the morning__ __in the afternoon__ __in the night__
 但是__night__ 要说 __at night__.
 ```
+
+> This, last, next, every 前面不能加任何『preposition介词，前置词』
+
+__at__ precise time | __in__ month, years, centuries and long periods | __on__ days and dates
+------------------|------------------------------------------------|---
+at 3 o'clock | in may | on sunday
+at 10.30am | in summer | on tuesdays
+at noon | in the morning | on 6 march
+at dinnertime | in 1990 | on 25 dec. 2010
+at bedtime | in the 1990s | on chrstmas day
+at sunrise | in the next | on independence day
+at sunset | in the ice age | on my birthday
+at the moment | in the past/future | on new year's eve
 
 sentence | description
 ---|---
@@ -76,11 +106,18 @@ In Hangzhou, it often snows in December. | 在杭州，12月经常下雪。
 The shop closes at midnight. | 半夜商店关门。
 Do you think we will be able to go to Mars __in__ the future? | 你觉得我们未来有可能去到火星吗？
 
+##prepositions of place - in,on,at,to
 
-##preposition of place - in,on,at,to
+1. at : 表明人或事物的位置时要用 __at__.
+例： 我9点钟会在车站那里。 = I will be at the station at 9 o'clock.
+2. On : 用于描述在某个面上面的人或事物（On the table）.
+3. in : 用于描述在某个城市，国家等人为地理位置或者例子中的人与事物 （例： in New York）.
 
-
-
+```
+ __in__ 与 __at__ 表示静态， 而__to__表示动态（movement）
+例 : I am going to China, I go to work, I drove to Beijing.
+I am going to Beijing = 我要去北京。
+```
 ##sentence
 
 
