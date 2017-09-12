@@ -146,3 +146,16 @@ We __are going to__ italy | 我们要去意大利
 I'm home | 我在家。 `在美式英语里， 有时可以省去'home'前的at`，<br/>注：这和美式英语无关，I'm是个成句，就和Let's go一样。
 I __visited__ China last summer | 我去看夏天去了趟中国。`To 不能和 visit一起用`
 I visited my grandmother | 我去探望我奶奶了。
+I can speak Chinese __but__ I can't speak English | 我会说中文，但是不会说英语。
+I like to play tennis __but__ i don't like watching it. | 我喜欢打网球，但我不喜欢看别人打网球。
+Would you like to have pasta __or__ pizza? | 你想要意大利面或者披萨？
+Are you right handed __or__ left handed? | 你是右撇子还是左撇子呢？
+Zheng Tao is 55 years old __but__ he looks quite young. | Zheng Tao55岁了，但是看起来还是很年轻。
+Do you like Criket more __or__ Hockey? | 你喜欢打棉球多一点还是曲棍球？
+I like burgers __but__ my brother doesn't like them. | 我喜欢吃汉堡，但是我弟弟不喜欢。
+we have a house __but__ we don't have a car | 我们有房子，但是我们没有车。
+is she coming home __or__ going out? | 她是回家还是出去呢？
+They have a big garden __and__ often invite friends for parties. | 
+wash the utensils first __and then__ use them . | 先将餐具清洗干净再使用。
+I can sing __and__ play the guitar __as well__. | 我会唱歌，也会弹吉他。
+They will book the hotel and __also__ provide the catering. | 他们会安排住宿，也会提供餐饮。

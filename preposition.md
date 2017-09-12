@@ -120,4 +120,20 @@ I am going to Beijing = 我要去北京。
 ```
 ##sentence
 
+#Connectors/Conjunctions连接词、结合词
 
+用来连接__两个句子__所用的词语,其中包括And、But和Or。
+
+1. __And__: 连接意义相近的两个句子。 eg： It's very sunny today __and__ the sky is blue.=今天是是晴天，和天空是蓝蓝的。
+2. __But__: 用作于两个意义相违的句子。 eg: I can speak Chinese __but__ I can't speak English.
+3. __Or__: 用作于给出不同选项的句子。Would you like to have pasta __or__ pizza? 你想要意大利面或者披萨？
+4. also: 也，并且，还要， 还有
+5. as well: 同too一个意思，但要用在句尾。 I can sing __and__ play the guitar __as well__. | 我会唱歌，也会弹吉他。
+6. too: 在非正式句子中可以用'too'进行简答。 i am dancing. Me too! | 我在跳舞。我也是！
+7. and also: 
+8. not only...but also:不仅...而且...;表强调
+9. as also:
+10. see also: 参见
+11. also notify: 另请通知
+12. also enough: 也够
+##

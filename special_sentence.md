@@ -3,12 +3,19 @@
 1. 一般现在时(现在时)
  >present tense 每日都做的事情（例如爱好）。
  >>I go to work | 我上班 -> 日常事项 -> 现在式
-2. 现在进行时
+* 一般过去时
+* 一般将来时
+* 一般过去将来时
+* 现在进行时
  >present progressive 与 present continuous tense指的是同一种时态，用于表示`正在进行的事情。`
  >>I am going to work | 我要去上班了 -> 当下 -> 现在进行式
+* 过去进行时
+* 现在完成时
+* 过去完成时
+* 将来完成时
+* 过去将来完成时
 
-
-* I am never late for work
+1. I am never late for work
  >`Subject + To-be(is/am/are) + adverb + extras.`
  >>Eg: She is always on time.
 * I never come late
