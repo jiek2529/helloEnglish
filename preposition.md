@@ -118,6 +118,18 @@ Do you think we will be able to go to Mars __in__ the future? | 你觉得我们�
 例 : I am going to China, I go to work, I drove to Beijing.
 I am going to Beijing = 我要去北京。
 ```
+
+#on,about,to,for,with-125
+
+1. You should not play __with__ unknow people. 你不应该和陌生人玩。
+* You must be quiet __in__ front of Elders. 你在长辈面前一定要安静。
+* You must be mysterious __on__ you first date. 你第一次约会的时候一定要神秘。
+* We all disagree __with__ the rules. 我们都不同意规矩。
+* They were not pleasant __with__ me. 他们对我很不满意
+* According to Zhang hua, Jia Hao innocent. `Zhang Hua说Jia Hao是无辜的`
+* Kids always feel safe with their parents. `小孩跟着父母会感到很有安全感`
+*
+
 ##sentence
 
 #Connectors/Conjunctions连接词、结合词
