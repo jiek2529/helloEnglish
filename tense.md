@@ -25,6 +25,45 @@
 ##Simple present tense 一般现在时-4
 ##present continuous tense 现在进行时-104
 
+###现在进行时的被动语态
+
+例如：
+
+The sports meeting is being held in our school.
+
+我校正在举行运动会.
+
+Another bridge is being built over the Changjiang River.
+
+长江上正在修建另一座大桥.
+
+构成：be + being+过去分词
+
+例如：
+
+A number of Dongfeng trucks are being shipped abroad.
+
+一批东风卡车正被运往国外.
+
+用法：
+
+1）“be being done” 中的动词be应随主语(sing./ pl.)作相应的变化.
+
+2）将现在进行时的主动语态变为现在进行时的被动语态的关键是：把be doing变为be being done.
+
+例1.The students are cleaning the classroom now.
+
+→The classroom is being cleaned now.
+
+现在学生们正在打扫教室.(are cleaning变为is being cleaned)
+
+例2.The boy is counting some eggs.
+
+→Some eggs are being counted.
+
+那男孩正在数蛋.(is counting 变为 are being counted)
+
+
 
 
 
