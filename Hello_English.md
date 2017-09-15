@@ -159,3 +159,4 @@ They have a big garden __and__ often invite friends for parties. |
 wash the utensils first __and then__ use them . | 先将餐具清洗干净再使用。
 I can sing __and__ play the guitar __as well__. | 我会唱歌，也会弹吉他。
 They will book the hotel and __also__ provide the catering. | 他们会安排住宿，也会提供餐饮。
+The only thing we can do is __to__ wait | 我们唯一能做的就是等待。
